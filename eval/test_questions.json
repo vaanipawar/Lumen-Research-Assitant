@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What was DistilBERT's accuracy in this paper?",
+    "ground_truth": "DistilBERT achieved the highest accuracy at 92.3%, with precision 91.8%, recall 92.9%, and F1-score 92.3%."
+  },
+  {
+    "question": "Which model had the best balance of performance and efficiency?",
+    "ground_truth": "Logistic Regression offered the best balance between performance and computational efficiency, with 89.1% accuracy."
+  },
+  {
+    "question": "What dataset was used in the experiments?",
+    "ground_truth": "The experiments used the Amazon Reviews Polarity Dataset, with 50,000 training samples and 10,000 test samples."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "ground_truth": "Tokyo is the capital of Japan."
+  }
+]
